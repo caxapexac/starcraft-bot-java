@@ -1,6 +1,6 @@
 # Diploma
 
-## Installation (Java)
+## Installation
 
 - Starcraft Brood War 11.6.1 <http://www.cs.mun.ca/~dchurchill/starcraftaicomp/files/Starcraft_1161.zip>
 - Map Pack <https://sscaitournament.com/files/sscai_map_pack.zip>
