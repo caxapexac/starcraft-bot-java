@@ -1,5 +1,8 @@
 # Diploma
 
+- [[0-TODO]]
+- [[1-Analogs]]
+
 ## Installation
 
 - Starcraft Brood War 11.6.1 <http://www.cs.mun.ca/~dchurchill/starcraftaicomp/files/Starcraft_1161.zip>
@@ -32,16 +35,9 @@
 
 - Huge amount from BWAPI github <https://github.com/bwapi/bwapi/wiki/Academics>
 - From 1-35 pages google schoolar 'BWAPI' search <https://scholar.google.com/scholar?start=320&q=bwapi&hl=en&as_sdt=0,5&as_vis=1>
-  - Use of Machine Learning Techniques in Real-Time Strategy Games <https://ieeexplore.ieee.org/abstract/document/8490528>
-  - Global State Evaluation in StarCraft <https://ojs.aaai.org/index.php/AIIDE/article/view/12725>
-  - Integrating Probabilistic Model for Detecting Opponent Strategies Into a Starcraft Bot <https://dspace.cuni.cz/handle/20.500.11956/84474>
-  - Neuroevolution for Micromanagement in the Real-Time Strategy Game Starcraft: Brood War <https://link.springer.com/chapter/10.1007/978-3-319-03680-9_28>
-  - Adaptive task-driven game AI for real-time strategy games <https://www.um.edu.mt/library/oar/handle/123456789/12094>
-  - Use Of Online POMDP with Heuristic Search Applied to Decision Making in Real Time Strategy Games <http://www.sbgames.org/sbgames2017/papers/ComputacaoShort/175537.pdf>
-  - Predicting the Outcome of Small Battles in StarCraf <http://ceur-ws.org/Vol-1520/paper3.pdf>
-  - An Analysis of Model-Based Heuristic Search Techniques for StarCraft Combat Scenarios <https://www.aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/viewPaper/15916>
-  - Build Order Optimization in StarCraft <https://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewPaper/4078>
-  - Investigation of the Effect of “Fog of War” in the Prediction of StarCraft Strategy Using Machine Learning <https://dl.acm.org/doi/abs/10.1145/2735384>
+  - -- Integrating Probabilistic Model for Detecting Opponent Strategies Into a Starcraft Bot <https://dspace.cuni.cz/handle/20.500.11956/84474>
+  - -- Adaptive task-driven game AI for real-time strategy games <https://www.um.edu.mt/library/oar/handle/123456789/12094>
+  - -- Use Of Online POMDP with Heuristic Search Applied to Decision Making in Real Time Strategy Games <http://www.sbgames.org/sbgames2017/papers/ComputacaoShort/175537.pdf>
   - Behaviour Oriented Design for Real-Time-Strategy Games <http://www.cs.bath.ac.uk/~jjb/ftp/GaudlFDG13.pdf>
   - Bayesian Networks for Micromanagement Decision Imitation in the RTS Game Starcraft <https://link.springer.com/chapter/10.1007/978-3-642-37798-3_38>
   - Opponent Modeling and Strategic Reasoning in the Real-time Strategy Game Starcraft <https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/252930>
@@ -80,3 +76,14 @@
 
 - Starcraft AI <https://www.starcraftai.com/wiki/Main_Page>
 - SSCAIT <https://sscaitournament.com/>
+
+## Todo
+
+- https://www.semanticscholar.org/topic/StarCraft/136807
+- https://github.com/JavaBWAPI/Java-BWAPI-Tutorial/wiki
+- https://www.starcraftai.com/wiki/BWAPI_and_BWMirror_(Java)
+- https://se.math.spbu.ru/theses.html?page=2&worktype=4&startdate=2007&enddate=2021&supervisor=0
+- http://se.moevm.info/doku.php/diplomants:start
+- https://trello.com/b/rKMnJPXx/starcraft-%D1%81%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2-%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80
+- https://sscaitournament.com/index.php?action=downloads
+- https://sscaitournament.com/index.php?action=tutorial

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "e8cd1b03c82d40b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f27faef638977c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1-Analogs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf7d883579973a7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a97b5529538ac19b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbd4b4d7433f5bc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d220e0b20dc6f0a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76e1af4614d12efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8afcded41b5b088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52567278bc11fc8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Analogs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4f27faef638977c4",
+  "lastOpenFiles": [
+    "1-Analogs.md",
+    "0-TODO.md",
+    "docs/primenenie-veroyatnostnyh-i-vremennyh-avtomatov-v-programmah-upravleniya-mnogoagentnyh-sistem.pdf",
+    "README.md",
+    "docs/inista.2015.7276774.pdf",
+    "docs/icsmc.2012.6378074.pdf",
+    "docs/TCIAIG.2015.2487743.pdf",
+    "docs/TCIAIG.2014.2365414.pdf",
+    "todo/TCIAIG.2014.2365414 (1).pdf",
+    "docs/CIG.2019.8848109.pdf"
+  ]
+}
